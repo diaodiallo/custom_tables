@@ -1,7 +1,0 @@
-name: "Custom tables"
-type: module
-description: "Custom tables from database to views."
-dependencies:
-  - views
-package: "Views"
-core: 8.x
